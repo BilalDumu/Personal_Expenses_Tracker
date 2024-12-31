@@ -1,5 +1,5 @@
 <h1>Personal Expenses Tracker</h1>
-<a href="https://ibb.co/M6fffLm"><img src="https://i.ibb.co/zJFFFwz/download.jpg" alt="download" border="0"></a>
+<a href="https://ibb.co/M6fffLm"><img src="https://i.ibb.co/zJFFFwz/download.jpg" alt="download" width= "1000" height= "500"></a>
 
 <h2>Description</h2>
 <b>This Personal Expense Tracker is a simple yet powerful tool to help you manage your financial expenses. Built using Python, SQLite, and Tkinter, the program offers an intuitive graphical interface for adding, viewing, and analyzing your expenses. Whether you're budgeting for daily spending or managing finances over a specific period, this application provides the features you need.</b>

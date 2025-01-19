@@ -19,7 +19,7 @@
 
 <p align="center">
 
-Loading in the tools we will be using:
+Loading in the tools we will be using: <br>
 <a href="https://ibb.co/Wfpqkzp"><img src="https://i.ibb.co/kX6k4D6/Capture2.png" alt="Capture2" border="0"></a>
 
 Ensure the required database and table structure are ready for use when the program is executed.<br/>
